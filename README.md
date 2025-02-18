@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lithasa Jayamaha
-- 👀 I’m interested in full-stack development, AL and ML as well as networking 
+- 👀 I’m interested in full-stack development and cloud networking 
 - 🌱 I’m currently learning computer science at the University of Sri Jayawardanapura
 -📫 How to reach me - email --> jlithasa@gamil.com
 
