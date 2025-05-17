@@ -59,4 +59,9 @@ A data analytics dashboard developed with Python, HuggingFace Transformers, and 
 
 ---
 
+### 🐍 Check out this fun animation of a snake eating my GitHub contributions!
+
+![snake gif](https://github.com/chamodshehanka/chamodshehanka/blob/output/github-contribution-grid-snake.gif?raw=true)
+
+
 > “I’m always excited to collaborate on innovative, impactful, and challenging technology projects. Let’s build something awesome together!”
