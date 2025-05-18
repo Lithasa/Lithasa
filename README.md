@@ -38,6 +38,7 @@ A data analytics dashboard developed with Python, HuggingFace Transformers, and 
 - **Cloud-native application deployment** on GCP and AWS  
 - **Cybersecurity & AI fundamentals**  
 - Scalable **API development** and **microservices architecture**
+- **CI/CD Pipeline tools**
 
 ---
 
